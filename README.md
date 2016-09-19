@@ -27,7 +27,6 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 * https://twitter.com/aviralsharma021
 * https://github.com/aviralsharma021
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
