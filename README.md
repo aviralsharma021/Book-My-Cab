@@ -26,6 +26,8 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 * https://twitter.com/aviralsharma021
 * https://github.com/aviralsharma021
+* https://github.com/vishistv
+* https://www.linkedin.com/in/vishist-varugeese-1328b4129?trk=nav_responsive_tab_profile
 
 
 ## Copyright and License
