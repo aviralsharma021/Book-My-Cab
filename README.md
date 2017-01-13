@@ -22,7 +22,7 @@ If you need to update the plugins included with this template, simply run the fo
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
-## MODIFOER
+## Team Members:
 
 * https://twitter.com/aviralsharma021
 * https://github.com/aviralsharma021
